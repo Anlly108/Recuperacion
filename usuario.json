@@ -1,0 +1,11 @@
+{
+	"usuario": [
+		{
+			"correo": correo@correo.com,
+			"contraseña": contrseña,
+			"nombre": Alguien,
+			"apellido": Perez,
+			"cedula": 123456789
+		}
+	]
+}
